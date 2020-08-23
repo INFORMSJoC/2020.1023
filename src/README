@@ -1,0 +1,27 @@
+This is a package for the solver JANOS. You can find additional details on [JANOS's website](http://janos.opt-operations.com/).
+
+
+
+
+
+
+
+##### Release History
+
+
+
+·janos 0.0.9`:
+
+Updates:
+- fix bugs when discretizing the logistic regression function.
+
+
+
+`janos 0.0.5`: 
+
+Updates:
+- includes examples and data files;
+- automatically install required packages;
+
+
+`janos 0.0.4`: JANOS's initial release. Released on Nov 8, 2019.
