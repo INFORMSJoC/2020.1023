@@ -1,9 +1,7 @@
-# 16:06 on April 30, 2020
-# Teng Huang
-# copied from evaluate_logistic_regression_20200107.py
-# for first revision of JANOS paper
-# use -v3
-# for part of Figure 3 (former Figure 2) in the paper
+"""
+Copyright © 2020 Teng Huang
+Some rights reserved.
+"""
 
 from janos import *
 import pandas as pd

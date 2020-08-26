@@ -1,10 +1,7 @@
-# created at 15:34 on April 30, 2020
-# author: Teng Huang
-# copied from rewrite_07
-# Description:
-# for the first revision of JANOS paper;
-# use college_student_enroll-v3.csv instead of -v2;
-
+"""
+Copyright © 2020 Teng Huang
+Some rights reserved.
+"""
 
 from janos import *
 import pandas as pd

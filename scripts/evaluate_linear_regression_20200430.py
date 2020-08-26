@@ -1,9 +1,7 @@
-# 16:13 April 30, 2020
-# Teng Huang
-# copied from example_student_enroll_evaluation_20200106.py
-# for first revision of JANOS paper
-# used for evaluating linear regression
-
+"""
+Copyright © 2020 Teng Huang
+Some rights reserved.
+"""
 
 from janos import *
 import pandas as pd

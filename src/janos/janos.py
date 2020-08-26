@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+Copyright © 2020
 @authors:
 David Bergman
 Teng Huang

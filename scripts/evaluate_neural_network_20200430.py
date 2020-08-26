@@ -1,9 +1,7 @@
-# 16:10 on April 30, 2020
-# Teng Huang
-# Description:
-# copied from evaluation_neural_network_20200107.py
-# for first revision of JANOS paper
-# use data -v3 instead of -v2
+"""
+Copyright © 2020 Teng Huang
+Some rights reserved.
+"""
 
 
 from janos import *

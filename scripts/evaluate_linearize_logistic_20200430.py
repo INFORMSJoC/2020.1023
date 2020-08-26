@@ -1,12 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-on 16:18 April 30, 2020
-
-@author: huangteng
-
-Description:
-    Copied from evaluate_linearize_logistic_20200106.py
+Copyright © 2020 Teng Huang
+Some rights reserved.
 """
 
 from janos import *
