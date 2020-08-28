@@ -1,3 +1,5 @@
+[//]: # (Important note for Teng Huang - 20200828: Make sure I check all hidden comments before publishing this repo.)
+
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
 # JANOS: An Integrated Predictive and Prescriptive Modeling Framework
@@ -5,19 +7,32 @@
 This project is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are associated with [the JANOS paper](https://arxiv.org/abs/1911.09461) by David Bergman, Teng Huang, Philip Brooks, Andrea Lodi, and Arvind U. Raghunathan. 
+The software and data in this repository are associated with [the paper](https://arxiv.org/abs/1911.09461) by David Bergman, Teng Huang, Philip Brooks, Andrea Lodi, and Arvind U. Raghunathan. 
+
+[//]: # (Need to change the arxiv link to ijoc link.)
+
+**Important: This code is being developed on an on-going basis at 
+https://github.com/iveyhuang/2019-11-OA-272. Please go there if you would like to
+get a more recent version or would like support.**
+
+[//]: # (Need to change the github repo name to match the final DOI.)
 
 ## Version
 
-The version used in the paper is `janos 0.0.9`.
+The version of the software used in the paper is tagged in this repository as `janos 0.0.9`.
 
+It is based on [this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) in the development repository. 
 
+[//]: # (Need to update this SHA link.)
 
-## Cite [NEED UPDATE]
+## Cite
 
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) and the software, using the following DOI.
+To cite this software, please cite [the paper](https://arxiv.org/abs/1911.09461) and the software, using the following DOI.
 
 [![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815) 
+
+[//]: # (Need to update the paper link to ijoc link.)
+[//]: # (Need to update the DOI when it is known.)
 
 ## Description
 
@@ -38,7 +53,9 @@ If you need to upgrade the package at a future date, please install and upgrade 
 
 ## Replicating
 
-To execute a `.py` file and replicate our experimental results, direct to the folder where the `.py` file is located (in `scripts`) in the command line, type `python rewrite_08_20200430_s1.py` and press enter, here taking `rewrite_08_20200430_s1.py` as an example.
+To execute a `.py` file and replicate our experimental results in [the paper](https://arxiv.org/abs/1911.09461), direct to the folder where the `.py` file is located (in `scripts`) in the command line, type `python rewrite_08_20200430_s1.py` and press enter, here taking `rewrite_08_20200430_s1.py` as an example.
+
+[//]: # (update the paper link to a ijoc link when it is available.)
 
 ### Data files
 `college_student_enroll-s1-1.csv` contains the 20,000 randomly generated student records for training predictive models.
@@ -74,6 +91,7 @@ Please find more information on [JANOS's website](http://janos.opt-operations.co
 ## Support
 
 For support in using this software,  please submit an
-[issue](https://github.com/iveyhuang/2019-11-OA-272/issues) or email David Bergman and Teng Huang.
+[issue](https://github.com/iveyhuang/2019-11-OA-272/issues) or email [David Bergman](mailto:david.bergman@uconn.edu) and [Teng Huang](mailto:teng.huang@uconn.edu).
 
+[//]: # (Be sure to make the repo public when publishing the paper.)
  
