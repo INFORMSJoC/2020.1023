@@ -18,6 +18,8 @@ get a more recent version or would like support.**
 
 To cite this software, please cite [the paper](https://arxiv.org/abs/1911.09461) using its DOI and the software, using its DOI.
 
+[![DOI](https://zenodo.org/badge/288628730.svg)](https://zenodo.org/badge/latestdoi/288628730)
+
 ## Description
 
 JANOS is an integrated predictive and prescriptive modeling framework. It seamlessly integrates the two streams of analytics, for the first time allowing researchers and practitioners to embed machine learning models in an optimization framework.
