@@ -4,35 +4,21 @@
 
 # JANOS: An Integrated Predictive and Prescriptive Modeling Framework
 
-This project is distributed in association with the [INFORMS Journal on
+This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are associated with [the paper](https://arxiv.org/abs/1911.09461) by David Bergman, Teng Huang, Philip Brooks, Andrea Lodi, and Arvind U. Raghunathan. 
-
-[//]: # (Need to change the arxiv link to ijoc link.)
+The software and data in this repository are a snapshot of the software and data
+from the [development repository](https://github.com/iveyhuang/2019-11-OA-272)
+that were used in the research reported on in the paper 
+[JANOS: An Integrated Predictive and Prescriptive Modeling Framework](https://arxiv.org/abs/1911.09461). 
 
 **Important: This code is being developed on an on-going basis at 
 https://github.com/iveyhuang/2019-11-OA-272. Please go there if you would like to
 get a more recent version or would like support.**
 
-[//]: # (Need to change the github repo name to match the final DOI.)
-
-## Version
-
-The version of the software used in the paper is tagged in this repository as `janos 0.0.9`.
-
-It is based on [this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) in the development repository. 
-
-[//]: # (Need to update this SHA link.)
-
 ## Cite
 
-To cite this software, please cite [the paper](https://arxiv.org/abs/1911.09461) and the software, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815) 
-
-[//]: # (Need to update the paper link to ijoc link.)
-[//]: # (Need to update the DOI when it is known.)
+To cite this software, please cite [the paper](https://arxiv.org/abs/1911.09461) using its DOI and the software, using its DOI.
 
 ## Description
 
