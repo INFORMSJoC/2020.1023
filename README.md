@@ -1,5 +1,3 @@
-[//]: # (Important note for Teng Huang - 20200828: Make sure I check all hidden comments before publishing this repo.)
-
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
 # JANOS: An Integrated Predictive and Prescriptive Modeling Framework
@@ -41,8 +39,6 @@ If you need to upgrade the package at a future date, please install and upgrade 
 
 To execute a `.py` file and replicate our experimental results in [the paper](https://arxiv.org/abs/1911.09461), direct to the folder where the `.py` file is located (in `scripts`) in the command line, type `python rewrite_08_20200430_s1.py` and press enter, here taking `rewrite_08_20200430_s1.py` as an example.
 
-[//]: # (update the paper link to a ijoc link when it is available.)
-
 ### Data files
 `college_student_enroll-s1-1.csv` contains the 20,000 randomly generated student records for training predictive models.
 
@@ -69,7 +65,6 @@ To execute a `.py` file and replicate our experimental results in [the paper](ht
 
 `rewrite_08_s1_full_15/09/27-20200501.xlsx` contains the formatted results for generating Table 1 in the most recent version.
 
-
 ## Ongoing Development
 
 Please find more information on [JANOS's website](http://janos.opt-operations.com).
@@ -78,6 +73,4 @@ Please find more information on [JANOS's website](http://janos.opt-operations.co
 
 For support in using this software,  please submit an
 [issue](https://github.com/iveyhuang/2019-11-OA-272/issues) or email [David Bergman](mailto:david.bergman@uconn.edu) and [Teng Huang](mailto:teng.huang@uconn.edu).
-
-[//]: # (Be sure to make the repo public when publishing the paper.)
  
