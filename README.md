@@ -20,6 +20,19 @@ To cite this software, please cite [the paper](https://arxiv.org/abs/1911.09461)
 
 [![DOI](https://zenodo.org/badge/288628730.svg)](https://zenodo.org/badge/latestdoi/288628730)
 
+Below is the BibTex for citing this version of the code.
+
+```
+@article{JANOS,
+  author =        {D. Bergman and T. Huang and P. Brooks and A. Lodi and A.U. Raghunathan},  
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{JANOS} Version v2020.1023},
+  year =          {2020},
+  doi =           {10.5281/zenodo.4017796},
+  url =           {https://github.com/INFORMSJoC/2020.1023},
+}
+```
+
 ## Description
 
 JANOS is an integrated predictive and prescriptive modeling framework. It seamlessly integrates the two streams of analytics, for the first time allowing researchers and practitioners to embed machine learning models in an optimization framework.
