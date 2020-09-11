@@ -6,12 +6,12 @@ This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data
-from the [development repository](https://github.com/iveyhuang/2019-11-OA-272)
+from the [development repository](https://github.com/iveyhuang/2020.1023)
 that were used in the research reported on in the paper 
 [JANOS: An Integrated Predictive and Prescriptive Modeling Framework](https://arxiv.org/abs/1911.09461). 
 
 **Important: This code is being developed on an on-going basis at 
-https://github.com/iveyhuang/2019-11-OA-272. Please go there if you would like to
+https://github.com/iveyhuang/2020.1023. Please go there if you would like to
 get a more recent version or would like support.**
 
 ## Cite
@@ -74,5 +74,5 @@ Please find more information on [JANOS's website](http://janos.opt-operations.co
 ## Support
 
 For support in using this software,  please submit an
-[issue](https://github.com/iveyhuang/2019-11-OA-272/issues) or email [David Bergman](mailto:david.bergman@uconn.edu) and [Teng Huang](mailto:teng.huang@uconn.edu).
+[issue](https://github.com/iveyhuang/2020.2023/issues) or email [David Bergman](mailto:david.bergman@uconn.edu) and [Teng Huang](mailto:teng.huang@uconn.edu).
  
