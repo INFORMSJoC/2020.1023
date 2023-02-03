@@ -8,7 +8,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 The software and data in this repository are a snapshot of the software and data
 from the [development repository](https://github.com/iveyhuang/2020.1023)
 that were used in the research reported on in the paper 
-[JANOS: An Integrated Predictive and Prescriptive Modeling Framework](https://arxiv.org/abs/1911.09461) by D. Bergman, 
+[JANOS: An Integrated Predictive and Prescriptive Modeling Framework](https://pubsonline.informs.org/doi/10.1287/ijoc.2020.1023) by D. Bergman, 
 T. Huang, P. Brooks, A. Lodi, and A.U. Raghunathan. 
 
 **Important: This code is being developed on an on-going basis at 
