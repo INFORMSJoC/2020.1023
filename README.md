@@ -17,9 +17,7 @@ get a more recent version or would like support.**
 
 ## Cite
 
-To cite this software, please cite [the paper](https://arxiv.org/abs/1911.09461) using its DOI and the software, using its DOI.
-
-[![DOI](https://zenodo.org/badge/288628730.svg)](https://zenodo.org/badge/latestdoi/288628730)
+To cite this software, please cite [the paper](https://doi.org/10.1287/ijoc.2020.1023) using its DOI and the [software DOI](https://doi.org/10.1287/ijoc.2020.1023.cd).
 
 Below is the BibTex for citing this version of the code.
 
